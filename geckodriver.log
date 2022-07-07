@@ -1,0 +1,74 @@
+1651937325923	geckodriver	INFO	Listening on 127.0.0.1:50048
+1657201944605	geckodriver	INFO	Listening on 127.0.0.1:61151
+1657201947796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61152" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allan\\AppData\\Local\\Temp\\rust_mozprofileUYrdRR"
+1657202112655	geckodriver	INFO	Listening on 127.0.0.1:61213
+1657202115691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61214" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allan\\AppData\\Local\\Temp\\rust_mozprofilePJQVvV"
+1657202116983	Marionette	INFO	Marionette enabled
+1657202116992	Marionette	INFO	Listening on port 61223
+WebDriver BiDi listening on ws://localhost:61214
+Read port: 61223
+1657202117632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allan\\AppData\\Local\\Temp\\rust_mozprofilePJQVvV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61214/devtools/browser/0c97fbae-c209-4056-9493-93f2740f5f8b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1657202144952	Marionette	INFO	Stopped listening on port 61223
+!!! error running onStopped callback: TypeError: callback is not a function
+1657202397174	geckodriver	INFO	Listening on 127.0.0.1:61309
+1657202400170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61310" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allan\\AppData\\Local\\Temp\\rust_mozprofilet3ewJ2"
+1657202401430	Marionette	INFO	Marionette enabled
+1657202401442	Marionette	INFO	Listening on port 61321
+WebDriver BiDi listening on ws://localhost:61310
+Read port: 61321
+1657202402318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allan\\AppData\\Local\\Temp\\rust_mozprofilet3ewJ2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61310/devtools/browser/c424b15b-d7d5-41bb-ac61-35bf2b17a6ff
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1657202570856	Marionette	INFO	Stopped listening on port 61321
+[Parent 13776, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13776, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ocal\\Temp\\rust_mozprofileNybCoy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61381/devtools/browser/ec9b59a6-7174-412f-b033-9dc754b6cf5f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1657202489756	Marionette	INFO	Stopped listening on port 61390
+1657202540411	geckodriver	INFO	Listening on 127.0.0.1:61462
+1657202543528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allan\\AppData\\Local\\Temp\\rust_mozprofile0MBh3q"
+1657202548196	Marionette	INFO	Marionette enabled
+1657202548210	Marionette	INFO	Listening on port 61475
+WebDriver BiDi listening on ws://localhost:61463
+Read port: 61475
+1657202549914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allan\\AppData\\Local\\Temp\\rust_mozprofile0MBh3q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61463/devtools/browser/3af89e0a-8085-4dc0-9616-23c07981beb6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1657202584029	Marionette	INFO	Stopped listening on port 61475
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657202592669	geckodriver	INFO	Listening on 127.0.0.1:61543
+1657202595720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61544" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\allan\\AppData\\Local\\Temp\\rust_mozprofilervSZRq"
+1657202598111	Marionette	INFO	Marionette enabled
+1657202598122	Marionette	INFO	Listening on port 61554
+WebDriver BiDi listening on ws://localhost:61544
+Read port: 61554
+1657202600486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\allan\\AppData\\Local\\Temp\\rust_mozprofilervSZRq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61544/devtools/browser/7c6a11f8-d74e-44d5-a9b8-af3f507743fd
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1657202646383	Marionette	INFO	Stopped listening on port 61554
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 20208, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
