@@ -1,6 +1,7 @@
 ## requirements
  
--> pip install selenium
--> pip install pandas
--> pip install pyautogui
--> install firefox
+- pip install selenium
+- pip install pandas
+- pip install pyautogui
+- pip install openpyxl
+- install firefox
